@@ -7,11 +7,11 @@ body {
     width: min(68rem, calc(100% - 2rem));
     margin: 2rem auto;
 }
-img {
-    width: 10rem;
+img{
+    width: 16rem;
     padding: 10px;
 }
 a,
-button {
+button{
     color: rebeccapurple;
 }
